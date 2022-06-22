@@ -1,0 +1,12 @@
+firstName: Hossein
+lastName: Javooni
+skills:
+  - java
+  - sql
+  - database
+caleague:
+  CTO: vahid
+  JavaDeveloper: Hamed
+  ASP_Developer: Zahra
+  Analyzer: Amir Moahmmad
+age: 38
